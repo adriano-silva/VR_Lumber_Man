@@ -21,7 +21,7 @@ https://youtu.be/l4frHwWYIhQ
 ## Video achievements explanation
 
 ## Achievements
-### Fundamentals (500 points)
+#### Fundamentals (500 points)
 * Scale (100 points) - Player has a normal human scale
 * Animation (100 points) - Squirrel is moving in the scene
 * Lighting (100 points) - Realtime and baked shadows are used
@@ -37,7 +37,7 @@ https://youtu.be/l4frHwWYIhQ
 * User Testing (2x 250 points = 500 points) - One user test was done for the UI and another one for the gamification system
 
 ## User tests 
-### Diegetic UI/Environment
+#### Diegetic UI/Environment
 * How do you feel in this world? What about your size? - "I feel good it's calming. My size seems to be normal."
 	- It's the wanted feeling, nothing to change
 * What do you think you need to do in this game? - "I need to cut the logs, there is an axe and a log in front of me."
@@ -45,7 +45,7 @@ https://youtu.be/l4frHwWYIhQ
 * Is it clear about the information in the boards? - "Yes I can cut a log only one time, and I need to cut the other one to restart."
 	- He understood right the indications, nothing to change
 
-### Gamification/Scoring system
+#### Gamification/Scoring system
 * Do you feel something good on doing the game? - "Not really, I don't feel enough satisfaction on cutting the logs. It's visually satisfying, but something is missing."
 	- I added a sound on cutting and a vibration on the controller holding the axe
 * Do you want to score more? - "I didn't really looked at the score, so I didn't know how I scored."
