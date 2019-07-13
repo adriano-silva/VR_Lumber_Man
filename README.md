@@ -23,7 +23,7 @@ https://youtu.be/l4frHwWYIhQ
 ## Achievements
 #### Fundamentals (500 points)
 * Scale (100 points) - Player has a normal human scale
-* Animation (100 points) - Squirrel is moving in the scene
+* Animation (100 points) - A water wheel is animated with Unity Animator
 * Lighting (100 points) - Realtime and baked shadows are used
 * Locomotion (100 points) - The Steam VR teleportation system is used with Area TP
 * Physics (100 points) - The player is able to throw logs and axe, they respond to gravity using Unity physics
