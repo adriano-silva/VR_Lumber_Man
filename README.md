@@ -19,6 +19,7 @@ The choosen emotion focused is “joy”, but more specifically “satisfaction�
 https://youtu.be/l4frHwWYIhQ
 
 ## Video achievements explanation
+https://youtu.be/gbH4hDiQ72Y
 
 ## Achievements
 #### Fundamentals (500 points)
