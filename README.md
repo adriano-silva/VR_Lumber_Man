@@ -16,10 +16,10 @@ HTC Vive - SteamVR
 The choosen emotion focused is “joy”, but more specifically “satisfaction”. Isn’t it satisfying watching a wood log split in two after a beautiful axe swing? What a joy of being in the middle of the forest, on a sunny day, hearing the birds singing, and doing some simple nice work like wood cutting with an axe. Simple pleasures of life.
 
 ## Video walkthrough
-https://youtu.be/l4frHwWYIhQ
+[![Watch the video](https://img.youtube.com/vi/l4frHwWYIhQ/hqdefault.jpg)](https://youtu.be/l4frHwWYIhQ)
 
 ## Video achievements explanation
-https://youtu.be/gbH4hDiQ72Y
+[![Watch the video](https://img.youtube.com/vi/gbH4hDiQ72Y/hqdefault.jpg)](https://youtu.be/gbH4hDiQ72Y)
 
 ## Achievements
 #### Fundamentals (500 points)
