@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.udacitycaptsoneproject.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "F:\\Dossiers\\Projets_Prog\\Unity Projects\\Udacity_HighImmersion\\Captstone\\Submission\\UdacityCaptsoneProject\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "UdacityCaptsoneProject [Testing]"
+        }
+      }
+    }
+  ]
+}
